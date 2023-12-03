@@ -7,7 +7,7 @@
 
 El _atributo_ __aria-__ se utiliza para mejorar la accesibilidad de los elementos web.
 
-## Atribuos aria
+## Atributos aria
 
 ### aria-disabled 
 
