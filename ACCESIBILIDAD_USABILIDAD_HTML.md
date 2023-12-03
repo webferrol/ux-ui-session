@@ -2,10 +2,12 @@
 
 ## Content table
 
+## Validadores HTML
+
+El [validador W3C](https://validator.w3.org/) es una __herramienta__ proporcionada por la organización internacional que establece los estandares y pautas de la __World Wide Web__ y se encarga de validar y verificar la calidad del código los lenguajes de marcados utilizados en las páginas web.
+
 
 ## ARIA
-
-El _atributo_ __aria-__ se utiliza para mejorar la accesibilidad de los elementos web.
 
 ## Atributos aria
 
