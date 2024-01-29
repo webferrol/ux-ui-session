@@ -1,4 +1,4 @@
-[Classroom intitación](https://classroom.google.com/c/NjAwOTIwNTc4NjAz?cjc=na6coqb)
+[Classroom](https://classroom.google.com/c/NjAwOTIwNTc4NjAz?cjc=na6coqb)
 
 ## Usabilidad y Accesibilidad en Diseño Web
 
