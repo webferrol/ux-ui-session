@@ -30,6 +30,11 @@
 3. **Comprensibilidad**: La información y el funcionamiento de la interfaz deben ser comprensibles.
 4. **Robustez**: El contenido debe ser suficientemente robusto para ser interpretado de manera fiable por una amplia variedad de agentes de usuario, incluidas las tecnologías de asistencia.
 
+### Enlaces de accesibilidad
+
+- [tooltip](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/tooltip_role)
+  - [Ejemplo sobre un password](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/tooltip_role#examples)
+
 ## Importancia de Ambos Conceptos
 
 **Experiencia del Usuario**: Una buena *usabilidad* mejora la experiencia del usuario, mientras que la *accesibilidad* garantiza que esta experiencia sea inclusiva para todos, independientemente de sus habilidades o limitaciones.
