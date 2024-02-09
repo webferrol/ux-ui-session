@@ -33,7 +33,6 @@
 ### Enlaces de accesibilidad
 
 - [tooltip](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/tooltip_role)
-  - [Ejemplo sobre un password](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/tooltip_role#examples)
 
 ## Importancia de Ambos Conceptos
 
